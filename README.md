@@ -13,7 +13,7 @@
 - GPU: nVIDIA GeForce RTX 2060 SUPER
 - Storage: 120GB SATA III (SATA 2 effective speed) SSD | 1TB SATA III (SATA 2 effective speed) SSD
 - OS: iusearchbytheway
-# mainlaptop:
+## mainlaptop:
 - CPU: Intel(R) Core(TM) i7-8750H CPU @ 3.9GHz 6 Cores 
 - RAM: 2x8GB DDR4 2666MHz
 - GPU: nVIDIA GeForce GTX 1050 Ti Mobile
