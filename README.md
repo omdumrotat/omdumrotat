@@ -8,7 +8,7 @@
 - 😄 Pronouns: daewoo/matiz
 - ⚡ Fun fact: did you know that money method is real and legitimate 
 ## mainpc:
-- CPU: ~~Intel(R) Core(TM) i7-3770 CPU @ 3.9GHz 4 Cores~~ AMD Ryzen 5 5500 Six-Core Processor @ 4.4GHz
+- CPU: ~~Intel(R) Core(TM) i7-3770 CPU @ 3.9GHz 4 Cores~~ AMD Ryzen 5 5500 Six-Core Processor @ 4.6GHz
 - RAM: 2x~~8~~16GB DDR~~3~~4 ~~1600~~3200MHz
 - GPU: nVIDIA GeForce RTX 2060 SUPER
 - Storage: 120GB SATA III SSD | 1TB SATA III SSD | 1TB SATA III SSD
