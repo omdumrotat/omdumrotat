@@ -16,6 +16,6 @@
 ## mainlaptop:
 - CPU: Intel(R) Core(TM) i7-8750H CPU @ 3.9GHz 6 Cores 
 - RAM: 2x8GB DDR4 2666MHz
-- GPU: nVIDIA GeForce GTX 1050 Ti Mobile
+- GPU: nVIDIA GeForce GTX 1050 Ti Mobile (unwillingly disabled thanks nvidia driver)
 - Storage: 240GB NVMe SSD 
-- OS: iusearchbytheway (kde plasma)
+- OS: iusearchbytheway (kde plasma with aerothemeplasma)
