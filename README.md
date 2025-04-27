@@ -12,10 +12,10 @@
 - RAM: ~~16~~ 32GB DDR~~3~~ 4 ~~1600~~ 3200MHz
 - GPU: nVIDIA GeForce RTX 2060 SUPER
 - Storage: 120GB SATA III SSD | 1TB SATA III SSD | 1TB SATA III SSD
-- OS: iusearchbytheway (budgie)
+- OS: iusearchbytheway (budgie and sometimes kde)
 ## mainlaptop:
 - CPU: Intel(R) Core(TM) i7-8750H CPU @ 3.9GHz 6 Cores 
 - RAM: 16GB DDR4 2666MHz
-- GPU: nVIDIA GeForce GTX 1050 Ti Mobile (unwillingly disabled thanks nvidia driver)
+- GPU: nVIDIA GeForce GTX 1050 Ti Mobile 
 - Storage: 240GB NVMe SSD 
-- OS: iusearchbytheway (kde plasma with aerothemeplasma)
+- OS: Windows 10 with Aero10 theme
