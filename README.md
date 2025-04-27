@@ -6,7 +6,9 @@
 - 💬 Ask me about ways to get money
 - 📫 How to reach me: @omrotat on discord, u/rotatos_ on reddit
 - 😄 Pronouns: daewoo/matiz
-- ⚡ Fun fact: did you know that money method is real and legitimate 
+- ⚡ Fun fact: did you know that money method is real and legitimate
+# hit languages i've dabbled in:
+ - <a href=""><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width=40 height=40>, <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" width=50 height=50>, <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" width=50 height=50>, <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" width=45 height=45>,<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" width=40 height=40>,<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width=40 height=40>,<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width=40 height=40></a> 
 ## mainpc:
 - CPU: ~~Intel(R) Core(TM) i7-3770 CPU @ 3.9GHz 4 Cores~~ AMD Ryzen 5 5500 Six-Core Processor @ 4.6GHz
 - RAM: ~~16~~ 32GB DDR~~3~~ 4 ~~1600~~ 3200MHz
