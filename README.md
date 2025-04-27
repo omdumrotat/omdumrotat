@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on everyone
 - 🤔 I’m looking for help with ~~llama3 in ooba~~ switched to lm studio finally
 - 💬 Ask me about ways to get money
-- 📫 How to reach me: omrotat#0
+- 📫 How to reach me: @omrotat on discord, u/rotatos_ on reddit
 - 😄 Pronouns: daewoo/matiz
 - ⚡ Fun fact: did you know that money method is real and legitimate 
 ## mainpc:
