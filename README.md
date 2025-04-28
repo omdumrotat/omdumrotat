@@ -1,6 +1,6 @@
 ### Helloguys
 - 🔭 I’m currently working on ~~discord-py-llm-sender~~ moneymethod10
-- 🌱 I’m currently learning moneymethods
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on everyone
 - 🤔 I’m looking for help with ~~llama3 in ooba~~ switched to lm studio finally
 - 💬 Ask me about ways to get money
