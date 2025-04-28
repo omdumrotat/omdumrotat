@@ -6,7 +6,7 @@
 - 💬 Ask me about ways to get money
 - 📫 How to reach me: @omrotat on discord, u/rotatos_ on reddit
 - 😄 Pronouns: daewoo/matiz
-- ⚡ Fun fact: did you know that money method is real and legitimate
+- ⚡ Fun fact: The Chevrolet Spark is a city car by General Motors. The production of Daewoo Matiz started in 1998, and it was marketed in South Korea. 
 # hit things i've dabbled in:
  - <a href=""><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" width=40 height=40>, <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" width=50 height=50>, <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" width=50 height=50>, <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" width=45 height=45>,<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" width=40 height=40>,<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" width=40 height=40>,<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" width=40 height=40></a> 
 ## mainpc:
